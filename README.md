@@ -1,7 +1,6 @@
-# misis-cats
+# mai-cats
 
-котята мисис
+котята маи
 
-Serverless-first бот, для фоток котят, живущих около МИСИС'а
+Serverless-first бот, для фоток котят, живущих около МАИ
 
-[Бот](https:/t.me/misis_cats_bot), [канал](https:/t.me/misis_cats)
